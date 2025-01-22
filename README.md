@@ -15,7 +15,11 @@ L'obiettivo principale di questa analisi è fornire una comprensione approfondit
 -Analizzare le Tendenze Temporali: Se il dataset include l'anno del modello, esaminare come le registrazioni di BEVs e PHEVs siano cambiate nel tempo, identificando eventuali tendenze di crescita o declino.
 
 LIBRERIE UTLIZZATE:
+
 -pandas per la manipolazione dei dati
+
 -seaborn  per la visualizzazione avanzata dei dati
+
 -numpy per operazioni numeriche
+
 -matplotlib per la visualizzazione dei dati
